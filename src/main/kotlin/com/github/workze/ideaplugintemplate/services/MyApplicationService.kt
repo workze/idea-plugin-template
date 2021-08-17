@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.workze.ideaplugintemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.workze.ideaplugintemplate.MyBundle
 
 class MyApplicationService {
 
